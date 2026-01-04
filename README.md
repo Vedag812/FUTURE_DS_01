@@ -2,7 +2,7 @@
 
 A comprehensive Power BI dashboard analyzing e-commerce sales performance across multiple countries and time periods.
 
-![Dashboard Preview](E-Commerce Analytics.png)
+![Dashboard Preview](E-Commerce%20Analytics.png)
 
 ## 📊 Dashboard Overview
 
